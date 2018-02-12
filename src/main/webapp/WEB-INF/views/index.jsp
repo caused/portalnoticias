@@ -49,6 +49,7 @@
 						alt="Fioravante">
 				</div>
 				<div class=" col-lg-7 col-md-7 col-sm-8">
+					<h7 class="data-title">12/02/2018</h7>
 					<h5 class="card-title">Projeto de lei para reforma do Ginásio
 						Fioravante Iervolino é aprovado</h5>
 					<p class="card-text text-muted">Os esportistas da cidade têm
@@ -57,25 +58,6 @@
 						ginásio Fioravante Iervolino, foi aprovado pela Comissão de
 						Análises e Aprovação de Projetos (CAAP), da Secretaria Estadual de
 						Esporte, Lazer e Juventude (SELJ).</p>
-				</div>
-			</div>
-
-			<hr />
-
-			<div class="row">
-				<div class="col-lg-5 col-md-5 col-sm-4">
-					<img class="img-home-noticia" src="resources/assets/imagem.jpg"
-						alt="Fioravante">
-				</div>
-				<div class=" col-lg-7 col-md-7 col-sm-8">
-					<h5 class="card-title">Prefeitura oferece cursos gratuitos
-						para empreendedo</h5>
-					<p class="card-text text-muted">A Prefeitura de Guarulhos
-						oferece três cursos gratuitos para empreendedores durante o mês de
-						fevereiro. A iniciativa faz parte do Apreende - Apoio
-						Regionalizado ao Empreendedor, uma parceria da Secretaria de
-						Desenvolvimento Científico, Econômico, Tecnológico e de Inovação
-						(SDCETI) com o Sebrae..</p>
 				</div>
 			</div>
 

@@ -1,0 +1,81 @@
+body{
+    background: #ededed;
+   	margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+
+.navbar{
+    background-color: #fff;
+}
+
+.logo{
+    width:30%; /* you can use % */
+    height: auto;
+}
+
+.corpo-noticias{
+    margin-top: 2em;
+}
+
+.texto-email{
+    color:#fff;
+}
+
+.field{
+    padding-bottom: 5px;
+}
+
+.card{
+    margin-bottom: 5px;
+}
+
+.wg-redes-sociais{
+    background-color: #fff;
+}
+.img-home-noticia{
+	width:18rem
+}
+
+.img-banner{
+	width: 50%;
+	margin: auto;
+}
+
+.carousel-inner > .item img{
+   width:100%;
+}
+
+#banner{
+	margin: 5em;
+}
+
+.card-title{
+	color:rgb(99, 120, 151);
+}
+
+.bg{
+	background-color:rgb(99, 120, 151);
+	
+}
+
+.titulo-link{
+	font-weigth:bold;
+	color:#fff;
+}
+
+#navbar-list{
+	margin:0 auto;
+	text-align: center
+}
+
+.btn-border{
+	    background-color: transparent;
+    background-image: none;
+	border-color: rgb(130, 48, 50);
+	color:rgb(130, 48, 50);
+}

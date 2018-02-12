@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -55,7 +56,7 @@
 						</a>
 
 							<ul class="nav-dropdown-items">
-								<li class="nav-item"><a href="layouts-normal.html"
+								<li class="nav-item"><a href="/admin/adicionar"
 									class="nav-link"> <i class="icon icon-target"></i> Adicionar
 								</a></li>
 

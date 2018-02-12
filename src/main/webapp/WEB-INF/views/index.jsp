@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <link rel="stylesheet" href="resources/css/bootstrap.min.css" />
+<link rel="stylesheet"
+	href="resources/css/admin/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" href="resources/css/home.css" />
 </head>
 
@@ -25,7 +27,7 @@
 			</div>
 		</div>
 	</nav>
-	<nav class="navbar bg navbar-fixed-top navbar-expand-lg" >
+	<nav class="navbar bg navbar-fixed-top navbar-expand-lg">
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav mr-auto text-center" id="navbar-list">
 				<li class="nav-item active "><a class="nav-link titulo-link"
@@ -67,8 +69,7 @@
 
 		<div class="col-md-3 col-xs-12">
 			<div class="card text-center ">
-				<div class="card-header bg texto-email">Fique por
-					dentro</div>
+				<div class="card-header bg texto-email">Fique por dentro</div>
 				<div class="card-body">
 					<h5 class="card-title ">Receba as principais notícias da
 						cidade de Guarulhos no seu e-mail!</h5>
@@ -89,16 +90,21 @@
 				</div>
 			</div>
 
-			<div class="card wg-redes-sociais">
-				<div class="card-header">
-					<ul>
-
-					</ul>
+			<div class="wg-redes-sociais ">
+				<div class="col-sm-3">
+					<a target="_blank" data-title="Facebook" class=""
+						href="https://www.facebook.com/guarulhosdestaque/"
+						data-original-title="" title="">
+						<div class="row facebook">
+							<span class="fa fa-facebook"></span>
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
+	</div>
 
-		</main>
+	</main>
 
 	</div>
 
